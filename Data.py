@@ -53,7 +53,7 @@ class Data:
 
     # Supported Media Buttons
     supported_media_buttons = [
-        [InlineKeyboardButton("𝚂𝙾𝚄𝚁𝙲𝙴 𝚃𝙴𝙿𝚃𝙷𝙾𝙽, url="https://t.me/Tepthon/")],
+        [InlineKeyboardButton("𝚂𝙾𝚄𝚁𝙲𝙴 𝚃𝙴𝙿𝚃𝙷𝙾𝙽 ", url="https://t.me/Tepthon/")],
         [InlineKeyboardButton("إغلاق 🔐", callback_data="close")],
         [InlineKeyboardButton(text="🏠 العودة إلى الصفحة الرئيسية 🏠", callback_data="home")]
     ]
